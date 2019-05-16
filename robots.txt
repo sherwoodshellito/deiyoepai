@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uiwuaphise.sasidhar.net/sitemap.xml
